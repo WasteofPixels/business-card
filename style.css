@@ -1,0 +1,23 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 100px;
+}
+img{
+    width: 150px;
+    border-radius: 10%;
+    border: 6px solid coral;
+    
+}
+.card-1 {
+    background-color: bisque;
+    border: 6px coral solid;
+    padding: 30px;
+    width: 350px;
+    text-align:center;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+.card-2{
+    color: rgb(219, 136, 11);
+}
